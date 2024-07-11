@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Nombre del alumno:Nicolas Aybar
+# Metodologia: React desde el lado del frontend, para los errores use sweetalert2
+# Dependencia: axios,bootstrap,sweetalert2
+# Descripcion:este frontend posee una autenticcion de usuario que al ingresar correctamente el usuario y clave al login , nos muestra un CRUD de productos que interactuca con una base de datos en mysql
